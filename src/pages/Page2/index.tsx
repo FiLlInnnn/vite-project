@@ -1,6 +1,6 @@
 
 
-export default function index() {
+export default function Page2() {
   return (
     <div>
       <>
